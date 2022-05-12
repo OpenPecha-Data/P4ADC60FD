@@ -32,3 +32,8 @@ source_metadata:
       parent: Treasury of Precious Qualities
 created_at: '2022-03-01T05:03:49.700105'
 last_modified_at: '2022-03-01T05:03:49.700108'
+statistics:
+  total_words: 5414
+  total_non_words: 468
+quality:
+  non_words_ratio: 0.09
